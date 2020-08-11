@@ -1,0 +1,17 @@
+[{
+    "image": "../source/music_1.jpg",
+    "audioSrc": "../source/夜、萤火虫和你.mp3",
+    "name": "夜、萤火虫和你",
+    "album": "夜、萤火虫和你",
+    "singer": "AniFace",
+    "duration": 266,
+    "isLike": true
+}, {
+    "image": "../source/music_2.jpg",
+    "audioSrc": "../source/荣耀 - 王晓天.mp3",
+    "name": "荣耀",
+    "album": "荣耀",
+    "singer": "王晓天",
+    "duration": 239,
+    "isLike": false
+}]
